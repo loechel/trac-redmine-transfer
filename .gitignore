@@ -1,0 +1,12 @@
+README.creole
+bin/
+lib/
+share/
+.ipynb_checkpoints/
+pyvenv.cfg
+pip-selfcheck.json
+.idea/
+transfer-files/
+*.log
+!*.ipynb
+trac_redmine_importer/

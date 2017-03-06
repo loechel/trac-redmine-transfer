@@ -1,0 +1,13 @@
+# Requirements for this Jupyter Environment
+# Jupyter and Jupyter Notebooks
+jupyter
+jupyter_kernel_gateway
+
+ipdb
+
+# Python Libraries to speak with
+python-redmine
+requests
+beautifulsoup4
+python-creole
+html2text
